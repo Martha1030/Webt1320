@@ -18,7 +18,7 @@
 
 <main>
     <h2>Moving from Illinois to Chattanooga</h2>
-    <p>I was born i Illinois and lived there for the first 24 years of my life. 6 years ago my family and I moved here to Chattanooga and absolutley love it. The people, housing, schools, jobs and so many other things made this area extra special for us. It does hurt a little that we have no family or much friends down here, however we have figured it out as we went along. I do not plan on moving from this area and I hope to one day raise my kids here.  </p>
+    <p>I was born in Illinois and lived there for the first 24 years of my life. 6 years ago my family and I moved here to Chattanooga and absolutley love it. The people, housing, schools, jobs and so many other things made this area extra special for us. It does hurt a little that we have no family or much friends down here, however we have figured it out as we went along. I do not plan on moving from this area and I hope to one day raise my kids here.  </p>
     <img src="images/rock_city.jpg" alt="Photo from the mountain at Rock City">
     <p>The two photos listed here are both areas in Chattanooga and they are clearly beautiful photos. My family actually visited Rock City and Ruby Falls a few years before we even thinked about moving to another state. Chattnooga to us at the time was just a travel spot and we never thought we would one day live here. There were a lot of decisions that led us to decide to move here and all in all it worked out really well. We have better jobs, better living situations and really good schools. I would recommend anyone in a bad state to take the risk and move if they are able.  </p>
 <ul>
@@ -29,6 +29,6 @@
 </ul>
 
 </main>
-<footer>&copy; 2023 HTML5 and Intro to CSS</footer>
+<footer>&copy; 2023 HTML5 and Intro to CSS.</footer>
 </body>
 </html>
